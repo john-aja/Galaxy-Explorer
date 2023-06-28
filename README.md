@@ -2,6 +2,16 @@
 
 Welcome to Galaxy Explorer, a captivating single-page website that takes you on a journey through the wonders of the Milky Way galaxy. This website is designed using HTML, CSS, and JavaScript, providing an immersive experience of our celestial neighbors.
 
+## Technologies Used
+
+The Galaxy Explorer website is built using the following technologies:
+
+- **HTML**: The structure and layout of the web pages are created using HTML.
+
+- **CSS**: CSS is used for styling the user interface and making the app visually appealing.
+
+- **JavaScript**: JavaScript is responsible for the functionality of the app, handling user interactions.
+
 ## Features
 
 - **Planetary Showcase**: Discover detailed information about the planets in the Milky Way galaxy. Explore their unique characteristics, including size, composition, and notable features.
