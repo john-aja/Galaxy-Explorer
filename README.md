@@ -22,10 +22,6 @@ The Galaxy Explorer website is built using the following technologies:
 
 - **Moon and Mars**: Explore fascinating details about our closest celestial companions. Delve into the mysteries of the Moon and learn about the ongoing missions and plans for human exploration of Mars.
 
-## Website Name: Galaxy Explorer
-
-Galaxy Explorer is an engaging and informative single-page website that allows you to embark on an interGalaxy journey through the wonders of our Milky Way galaxy. Prepare to be captivated by the stunning visuals, enlightening information, and inspiring quotes that await you.
-
 ## Installation
 
 To explore the Galaxy Explorer website locally, follow these steps:
