@@ -1,5 +1,9 @@
 # Galaxy Explorer
 
+![galaxy-mock](https://github.com/john-aja/Galaxy-Explorer/assets/95049418/35d659f1-2d41-47ce-8231-004b9b2cfe54)
+
+To open the website in a browser, please click on the following link : https://exploregalaxy.netlify.app/
+
 Welcome to Galaxy Explorer, a captivating single-page website that takes you on a journey through the wonders of the Milky Way galaxy. This website is designed using HTML, CSS, and JavaScript, providing an immersive experience of our celestial neighbors.
 
 ## Technologies Used
@@ -26,7 +30,7 @@ The Galaxy Explorer website is built using the following technologies:
 
 To explore the Galaxy Explorer website locally, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/your-username/stellar-explorer.git`
+1. Clone the repository from GitHub: `git clone https://github.com/john-aja/Galaxy-Explorer.git`
 
 2. Navigate to the project directory: `cd GalaxyWeb`
 
@@ -34,11 +38,11 @@ To explore the Galaxy Explorer website locally, follow these steps:
 
 ## Contributing
 
-If you would like to contribute to the development of Stellar Explorer, you can follow these steps:
+If you would like to contribute to the development of Galaxy Explorer, you can follow these steps:
 
 1. Fork the repository on GitHub.
 
-2. Clone your forked repository to your local machine: `git clone https://github.com/your-username/stellar-explorer.git`
+2. Clone your forked repository to your local machine: `git clone https://github.com/john-aja/Galaxy-Explorer.git`
 
 3. Create a new branch for your feature or improvement: `git checkout -b feature/your-feature`
 
