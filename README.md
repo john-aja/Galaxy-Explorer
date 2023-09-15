@@ -1,6 +1,6 @@
 # Galaxy Explorer
 
-![galaxy-mock](https://github.com/john-aja/Galaxy-Explorer/assets/95049418/35d659f1-2d41-47ce-8231-004b9b2cfe54)
+![GALAXY](https://github.com/john-aja/Galaxy-Explorer/assets/95049418/57099a2f-3570-4d20-8b63-6dd949f7d818)
 
 To open the website in a browser, please click on the following link : https://exploregalaxy.netlify.app/
 
